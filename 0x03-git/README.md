@@ -1,1 +1,1 @@
-Git up to date
+Git up to date.
